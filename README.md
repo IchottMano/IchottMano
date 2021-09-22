@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
+---
+I'm IchottMano, a MSc Student who loves **AI**, **Web Development** and **teaching**!
+---
 <!--
 **IchottMano/IchottMano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +23,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **PyTorch, Website Scrapping, Data Mining**
 - 📫 How to reach me: reschilling@uc.cl
 - ⚡ Fun fact: I love Japanese RPGs
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchottMano&theme=dark)
+](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchottMano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
