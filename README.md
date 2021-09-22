@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **AI applied to Medicine**
+- 🌱 I’m currently learning about many useful **deep learning architectures**
+- 👯 I’m looking to collaborate on **open source AI projects**
+- 💬 Ask me about **PyTorch, Website Scrapping, Data Mining**
+- 📫 How to reach me: reschilling@uc.cl
+- ⚡ Fun fact: I love Japanese RPGs
