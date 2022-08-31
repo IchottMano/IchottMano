@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: reschilling@uc.cl
 - ⚡ Fun fact: I love Japanese RPGs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchottMano&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchottMano&count_private=true&theme=dark)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchottMano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchottMano&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
