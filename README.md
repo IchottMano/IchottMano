@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ---
-I'm IchottMano, a MSc Student who loves **AI**, **Web Development** and **teaching**!
+I'm IchottMano, a Software Engineer @ Examedi who loves **AI**, **Web Development** and **teaching**!
 ---
 <!--
 **IchottMano/IchottMano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
