@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ---
-I'm IchottMano, a Software Engineer @ Examedi who loves **AI**, **Web Development** and **teaching**!
+I'm IchottMano, a Software Engineer @ ZeroFox who loves **AI**, **Web Development** and **teaching**!
 ---
 <!--
 **IchottMano/IchottMano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **AI applied to Medicine**
 - 🌱 I’m currently learning about many useful **deep learning architectures**
 - 👯 I’m looking to collaborate on **open source AI projects**
 - 💬 Ask me about **PyTorch, Website Scrapping, Data Mining**
